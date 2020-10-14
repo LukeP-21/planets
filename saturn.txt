@@ -1,3 +1,7 @@
 It is so a planet.
 I hope it is otherwise my physics education was very questionable.
+<<<<<<< HEAD
 i think we should blow it up so it isn't a debate.
+=======
+I have no idea about physics.
+>>>>>>> 7c64e21ab317b098f6687db5471879c0e4bfc77e
